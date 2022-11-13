@@ -1,0 +1,3 @@
+D:/STUDY/Graphs/Bron-Kerbosch algorithm/cmake-build-debug/CMakeFiles/Bron_Kerbosch_algorithm.dir
+D:/STUDY/Graphs/Bron-Kerbosch algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STUDY/Graphs/Bron-Kerbosch algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
